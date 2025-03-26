@@ -44,17 +44,36 @@
   link: https://bracis.sbc.org.br/2025/
   deadline: '2025-04-18 23:59:59'
   timezone: UTC-12
-  date: Oct 29 - Nov 02, 2025
+  date: Sep 29 - Oct 02, 2025
   tags:
   - machine-learning
   - robotics
   - natural-language-processing
   city: Fortaleza
   country: BR
-  start: '2025-10-29'
-  end: '2025-11-02'
+  start: '2025-09-29'
+  end: '2025-10-02'
   rankings: 'CCF: B, CORE: A*, THCPL: A'
   venue: Fortaleza, Brazil
+
+- title: SEMISH
+  year: 2025
+  id: semish25
+  full_name: Brazilian Conference on Intelligent Systems 
+  link: https://bracis.sbc.org.br/2025/
+  deadline: '2025-03-31 23:59:59'
+  timezone: UTC-3
+  date: Jul 20-24, 2025
+  tags:
+  - machine-learning
+  - robotics
+  - natural-language-processing
+  city: Maceió
+  country: BR
+  start: '2025-07-20'
+  end: '2025-07-24'
+  rankings: 'CCF: B, CORE: A*, THCPL: A'
+  venue: Maceió, Brazil
 
 - title: ICTAI
   year: 2025
@@ -68,8 +87,8 @@
   - machine-learning
   - robotics
   - natural-language-processing
-  city: Fortaleza
-  country: BR
+  city: Athens
+  country: GR
   start: '2025-11-03'
   end: '2025-11-05'
   rankings: 'CCF: B, CORE: A*, THCPL: A'
