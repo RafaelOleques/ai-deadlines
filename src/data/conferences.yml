@@ -16,6 +16,87 @@
   rankings: 'CCF: B, CORE: A*, THCPL: A'
   venue: Georgia World Congress Center, Atlanta, USA
 
+- title: ECAI
+  year: 2025
+  id: ecai25
+  full_name: European Conference on Artificial Intelligence
+  link: https://ecai2025.org/deadlines/
+  deadline: '2025-05-06 23:59:59'
+  timezone: UTC-12
+  date: October 25-30, 2025
+  tags:
+  - machine-learning
+  - natural-language-processing
+  city: Bologna
+  country: Italy
+  abstract_deadline: '2025-04-29 23:59:59'
+  rankings: 'CCF: B, CORE: A, THCPL: N'
+  venue: Bologna Congress Center and The Engineering School (University of Bologna)
+  rebuttal_period_start: '2025-06-23'
+  rebuttal_period_end: '2025-06-25'
+  final_decision_date: '2025-07-10'
+  note: All important dates can be found <a href='https://ecai2025.org/call-for-papers/'>here</a>.
+
+- title: BRACIS
+  year: 2025
+  id: bracis25
+  full_name: Brazilian Conference on Intelligent Systems 
+  link: https://bracis.sbc.org.br/2025/
+  deadline: '2025-04-18 23:59:59'
+  timezone: UTC-12
+  date: Oct 29 - Nov 02, 2025
+  tags:
+  - machine-learning
+  - robotics
+  - natural-language-processing
+  city: Fortaleza
+  country: BR
+  start: '2025-10-29'
+  end: '2025-11-02'
+  rankings: 'CCF: B, CORE: A*, THCPL: A'
+  venue: Fortaleza, Brazil
+
+- title: ICTAI
+  year: 2025
+  id: ictai25
+  full_name: IEEE International Conference on Tools with Artificial Intelligence
+  link: #
+  deadline: '2025-06-12 23:59:59'
+  timezone: UTC-12
+  date: Nov 03-05, 2025
+  tags:
+  - machine-learning
+  - robotics
+  - natural-language-processing
+  city: Fortaleza
+  country: BR
+  start: '2025-11-03'
+  end: '2025-11-05'
+  rankings: 'CCF: B, CORE: A*, THCPL: A'
+  venue: Athens, Greece
+
+- title: RANLP
+  year: 2025
+  id: ranlp25
+  full_name: International Conference Recent Advances in Natural Language Processing
+  link: https://ranlp.org/ranlp2025/
+  abstract_deadline: '2025-05-11 23:59:59'
+  deadline: '2025-05-25 23:59:59'
+  timezone: UTC-12
+  date: Sep 03-13, 2025
+  tags:
+  - machine-learning
+  - robotics
+  - natural-language-processing
+  - TEST
+  city: Varna
+  country: BG
+  start: '2025-09-03'
+  end: '2025-09-13'
+  rankings: 'CCF: B, CORE: A*, THCPL: A'
+  venue: Varna, Bulgaria
+  
+
 - title: WACV
   year: 2025
   id: wacv25
@@ -688,26 +769,6 @@
   venue: COEX Convention & Exhibition Center, Seoul, South Korea
   start: '2025-09-27'
   end: '2025-09-30'
-
-- title: ECAI
-  year: 2025
-  id: ecai25
-  full_name: European Conference on Artificial Intelligence
-  link: https://ecai2025.org/deadlines/
-  deadline: '2025-05-06 23:59:59'
-  timezone: UTC-12
-  date: October 25-30, 2025
-  tags:
-  - machine-learning
-  city: Bologna
-  country: Italy
-  abstract_deadline: '2025-04-29 23:59:59'
-  rankings: 'CCF: B, CORE: A, THCPL: N'
-  venue: Bologna Congress Center and The Engineering School (University of Bologna)
-  rebuttal_period_start: '2025-06-23'
-  rebuttal_period_end: '2025-06-25'
-  final_decision_date: '2025-07-10'
-  note: All important dates can be found <a href='https://ecai2025.org/call-for-papers/'>here</a>.
 
 - title: NeurIPS
   year: 2025
