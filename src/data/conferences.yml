@@ -16,6 +16,24 @@
   rankings: 'CCF: B, CORE: A*, THCPL: A'
   venue: Georgia World Congress Center, Atlanta, USA
 
+- title: HICSS-59
+  year: 2026
+  id: hicss59
+  full_name: The 59th Hawaii International Conference on System Sciences
+  link: https://hicss.hawaii.edu/
+  deadline: '2025-06-15 23:59:00'
+  timezone: UTC-3
+  date: Jan 6-9, 2026
+  tags:
+  - machine-learning
+  - natural-language-processing
+  city: Maui, Havaí
+  country: USA
+  start: '2026-01-06'
+  end: '2026-01-09'
+  rankings: 'CCF: B, CORE: A*, THCPL: A'
+  venue: Hyatt Regency Maui Resort and Spa, Maui, Havaí, USA
+
 - title: ECAI
   year: 2025
   id: ecai25
